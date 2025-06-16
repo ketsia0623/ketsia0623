@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ketsia!
 - 🌱 I’m currently learning Java and Typescript
-- - 🔭 I’m currently working on a Full-Stack Project
+- - 🔭 I’m currently working on a Full-Stack Project ... 
 
 ## 📊 GitHub Stats
 
